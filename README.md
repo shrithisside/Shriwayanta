@@ -1,3 +1,21 @@
+# Hi there 👋
+
+* 👂 My name is: **Shriwayanta Maiti** 
+
+* 🙎‍♂️ Pronouns: He/Him
+
+* 🔭 I’m currently working on: Projects and collaborations that solve real-world problems.
+
+* 🌱 I’m currently learning: Programming, Data Structures, and Software Development.
+
+* 🤝 I’m looking to collaborate on: Web Development and AI-driven innovations.
+
+* 🤔 I’m looking for help with: Mastering advanced concepts in Artificial Intelligence.
+
+* 📫 How to reach me: My portfolio **https://shrithisside.dev** or linkedin **https://www.linkedin.com/in/shriwayanta-maiti/**
+
+* ⚡ Fun fact: I'm a firm believer in the "learning by doing" philosophy, which usually means I have 47 open browser tabs—40 of which are documentation and 7 are Stack Overflow.
+
 # 💫 About Me:
 Im a B.Tech CSE student at DY Patil International University, Akurdi, Pune, graduating in 2028. I am a passionate and driven student with a strong interest in technology, problem-solving, and innovation<br><br>My primary focus is on building a strong foundation in programming, data structures, and software development. I am particularly enthusiastic about exploring the fields of:<br><br>Artificial Intelligence<br>Web Development<br><br>I believe in a "learning by doing" approach and enjoy working on projects, internships, and collaborations that solve real-world problems. I am also open to connecting with fellow learners, mentors, and professionals to share ideas and grow together
 
