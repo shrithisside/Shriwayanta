@@ -32,7 +32,7 @@ Im a B.Tech CSE student at DY Patil International University, Akurdi, Pune, grad
 # 📊 GitHub Stats:
 <br clear="both">
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrithisside&theme=highcontrast" alt="shrithisside" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrithisside&theme=highcontrast&cache=1" alt="shrithisside" /></p>
 
 ##
 <div align="center">
