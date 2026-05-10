@@ -64,7 +64,7 @@ Im a B.Tech CSE student at DY Patil International University, Akurdi, Pune, grad
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrithisside/shrithisside/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrithisside/shrithisside/output/github-contribution-grid-snake.svg">
 </picture>
-<!---## 🏆 GitHub Trophies
+<!---## 🏆 GitHub Trophies ! !
 ![](https://github-profile-trophy.vercel.app/?username=shrithisside&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
